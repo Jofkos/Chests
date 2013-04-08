@@ -1,0 +1,10 @@
+name: Chests
+author: Jofkos
+version: 0.22
+main: com.Jofkos.Chests.Main
+softdepend: [WorldEdit]
+
+commands:
+  Chests:
+    usage: /chest create
+    aliases: [chest, kiste, truhe]
